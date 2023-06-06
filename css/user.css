@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #2f323f;
+}
+
+.container {
+  margin-top: 40px;
+}
+
+.table-color {
+  background: whitesmoke;
+  border-radius: 8px;
+}
+
+.td {
+  visibility: hidden;
+}
